@@ -1,0 +1,8 @@
+{
+  "contentType": "blockContact",
+  "fields": {
+    "headline": "Workshop contact",
+    "description": "Questions about the workshop or sample content?",
+    "contact": "demo-team"
+  }
+}

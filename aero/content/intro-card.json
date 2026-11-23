@@ -1,0 +1,8 @@
+{
+  "contentType": "card",
+  "fields": {
+    "headline": "Aero Demo",
+    "description": "Explore a standard page, an article, and an event, all composed from reusable Entries.",
+    "cta": "article-link"
+  }
+}

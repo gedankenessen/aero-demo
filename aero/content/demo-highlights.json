@@ -1,0 +1,7 @@
+{
+  "contentType": "blockHighlights",
+  "fields": {
+    "headline": "Explore the demos",
+    "items": ["article-card", "workshop-card"]
+  }
+}

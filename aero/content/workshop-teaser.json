@@ -1,0 +1,8 @@
+{
+  "contentType": "blockTeaser",
+  "fields": {
+    "headline": "Explore the workshop",
+    "description": "See how the same content model can support a hands-on event.",
+    "item": "workshop-card"
+  }
+}

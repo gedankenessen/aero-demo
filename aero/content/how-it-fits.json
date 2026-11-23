@@ -1,0 +1,7 @@
+{
+  "contentType": "blockText",
+  "fields": {
+    "headline": "One schema, several page types",
+    "description": "A page supplies a URL and metadata. Its content determines the layout, and reusable blocks add highlights, teasers, or contact details."
+  }
+}

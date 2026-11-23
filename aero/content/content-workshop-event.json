@@ -1,0 +1,10 @@
+{
+  "contentType": "pageEvent",
+  "fields": {
+    "headline": "Content Workshop",
+    "description": "Learn how to build a page from structured content and reuse its blocks across a site.",
+    "location": "workshop-location",
+    "contact": "demo-team",
+    "blocks": ["workshop-agenda", "workshop-contact"]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "contentType": "page",
+  "fields": {
+    "slug": "hello-aero",
+    "content": "hello-aero-article",
+    "title": "Hello, Aero",
+    "description": "A short introduction to building pages from reusable content with Aero.",
+    "noIndex": false,
+    "noFollow": false,
+    "keywords": ["Aero", "getting started", "reusable content"]
+  }
+}

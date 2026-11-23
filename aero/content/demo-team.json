@@ -1,0 +1,8 @@
+{
+  "contentType": "person",
+  "fields": {
+    "headline": "Aero Demo Team",
+    "description": "The team behind the Aero demo.",
+    "email": "demo@example.com"
+  }
+}

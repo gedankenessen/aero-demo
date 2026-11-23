@@ -1,0 +1,28 @@
+{
+  "name": "aero-demo",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "next build",
+    "dev": "next dev",
+    "start": "next start",
+    "test:content": "node --experimental-strip-types --test aero/delivery.test.ts"
+  },
+  "dependencies": {
+    "@gedankenessen/aero": "0.0.1",
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.9.3"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "24.x"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "contentType": "card",
+  "fields": {
+    "headline": "Hello, Aero",
+    "description": "Learn how pages, articles, and reusable cards fit together.",
+    "cta": "article-link"
+  }
+}

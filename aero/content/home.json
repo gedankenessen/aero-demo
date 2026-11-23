@@ -1,0 +1,12 @@
+{
+  "contentType": "page",
+  "fields": {
+    "slug": "home",
+    "content": "home-content",
+    "title": "Aero Demo",
+    "description": "See how Aero delivers pages, articles, and events built from reusable content.",
+    "noIndex": false,
+    "noFollow": false,
+    "keywords": ["Aero", "content management"]
+  }
+}

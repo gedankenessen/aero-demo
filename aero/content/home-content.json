@@ -1,0 +1,7 @@
+{
+  "contentType": "pageContent",
+  "fields": {
+    "hero": "intro-card",
+    "blocks": ["demo-highlights", "how-it-fits"]
+  }
+}

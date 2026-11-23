@@ -1,0 +1,10 @@
+node_modules/
+.next/
+.vercel/
+.env*
+!.env.template
+aero-env.d.ts
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+npm-debug.log*
