@@ -1,11 +1,13 @@
 {
   "contentType": "pageArticle",
   "fields": {
-    "headline": "Hello, Aero",
+    "headline": "Hello, Aero v0",
     "description": "See how structured content fits into a Next.js site.",
     "readTime": 3,
     "body": "Aero gives your Next.js site a content schema and a delivery client. Content lives in the same repository as your site, and each Entry can be reused on multiple pages.\n\nThis article is assembled from separate Entries. The page defines its URL and metadata, the article supplies the story, and the workshop card below also appears on the homepage.",
     "author": "demo-team",
-    "blocks": ["workshop-teaser"]
+    "blocks": [
+      "workshop-teaser"
+    ]
   }
 }
