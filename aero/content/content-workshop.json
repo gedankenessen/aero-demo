@@ -4,9 +4,13 @@
     "slug": "content-workshop",
     "content": "content-workshop-event",
     "title": "Content Workshop",
-    "description": "A hands-on session about building pages with reusable content.",
+    "description": "A hands-on session about building pages with reusable content. TEST",
     "noIndex": false,
     "noFollow": false,
-    "keywords": ["Aero", "workshop", "content modeling"]
+    "keywords": [
+      "Aero",
+      "workshop",
+      "content modeling"
+    ]
   }
 }
